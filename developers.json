@@ -1034,5 +1034,20 @@
     "city": "Jakarta",
     "github": "ikhsanalatsary",
     "email": "ikhsannetwork@gmail.com"
-  }
+  },
+ {
+  "name": "Jenn",
+  "company": "JennR8ted Designs",
+  "skills": [
+    "Photoshop",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "WordPress",
+    "Magento"
+  ],
+  "city": "San Antonio, USA",
+  "github": "jnn-tlr",
+  "email": "jenn@jnntlr.com"
+}
 ]
